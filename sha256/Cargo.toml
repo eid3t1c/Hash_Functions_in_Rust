@@ -1,0 +1,14 @@
+[package]
+name = "sha256"
+version = "0.1.0"
+edition = "2021"
+authors = ["eid3t1c"]
+license = "MIT"
+documentation = "https://csrc.nist.gov/files/pubs/fips/180-2/final/docs/fips180-2.pdf"
+repository = "https://github.com/eid3t1c/Hash_Functions_in_Rust"
+
+
+[dependencies]
+byte_string = "1.0.0"
+modular = "1.0.0"
+hex = "0.4.3"
