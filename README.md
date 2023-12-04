@@ -13,9 +13,9 @@ Welcome to my Rust Hash Functions Practice project! As a beginner in the Rust pr
 ## Implemented Hash Functions
 
 The project currently includes basic implementations of popular hash functions, such as:
-- **SHA-256**
-- **MD5**
-- **Blake2b**
+- **SHA-1**
+- **SHA-2**
+- **MD** (soon)
 
 ## How to Use
 
