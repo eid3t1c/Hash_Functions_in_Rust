@@ -17,10 +17,6 @@ The project currently includes basic implementations of popular hash functions, 
 - **SHA-2**
 - **MD** (soon)
 
-## How to Use
-
-As this project is primarily for practice, there are no strict usage instructions. Feel free to explore the code in the `src` directory and experiment with modifications. Run the examples to observe the behavior of the implemented hash functions, and use this space to experiment and learn without the pressure of strict guidelines.
-
 ## Feedback
 
 As a Rust beginner, i'm open to any feedback or advices, whether it's related to better coding practices, idiomatic Rust, or general programming tips.
